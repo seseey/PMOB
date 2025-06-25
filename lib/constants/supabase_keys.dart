@@ -1,0 +1,3 @@
+const String supabaseUrl = 'https://qduingwiphabtaxtsqqd.supabase.co';
+const String supabaseAnonKey =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFkdWluZ3dpcGhhYnRheHRzcXFkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc1NDM3MzEsImV4cCI6MjA2MzExOTczMX0.p61wAil5D2RJFPnKt3pmHepB1pBjOrNouNRdp3dBlQQ';
